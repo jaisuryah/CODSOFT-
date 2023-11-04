@@ -1,3 +1,6 @@
+//JAISURYAH KP
+//NUMBER GUESSING GAME
+
 import java.util.Scanner;
 
 public class GradeCalculator {

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class GradeCalculator {
+class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -33,10 +33,10 @@ public class GradeCalculator {
             grade = 'F';
         }
 
-        System.out.println("----------------------------")
-        System.out.println("Total Marks: " + totalMarks);
-        System.out.println("Average Percentage: " + averagePercentage + "%");
-        System.out.println("Grade: " + grade);
+        System.out.println("----------------------------");
+        System.out.println("\nTotal Marks: " + totalMarks);
+        System.out.println("\nAverage Percentage: " + averagePercentage + "%");
+        System.out.println("\nGrade: " + grade);
 
         scanner.close();
     }

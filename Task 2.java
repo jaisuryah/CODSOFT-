@@ -1,5 +1,5 @@
 //JAISURYAH KP
-//NUMBER GUESSING GAME
+//STUDENT GRADING 
 
 import java.util.Scanner;
 

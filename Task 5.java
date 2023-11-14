@@ -1,3 +1,6 @@
+//JAISURYAH K P
+//Student Course registration System
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
